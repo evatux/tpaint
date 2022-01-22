@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tpaint.png</file>
+        <file>brush.png</file>
+        <file>eraser.png</file>
+        <file>camera.png</file>
+    </qresource>
+</RCC>
